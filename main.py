@@ -1,2 +1,0 @@
-
-print("hellor world")
